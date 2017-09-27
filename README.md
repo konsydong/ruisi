@@ -1,2 +1,2 @@
 # ruisi_history
-analyse the history of my ruisi download
+This is my project which analyses the history of my ruisi download
